@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1c98729-8874-4aa0-aa9c-c57afd6c4154" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Dynamic_Programming_Practice_Problems/Making Change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dynamic_Programming_Practice_Problems/Maximum_Value_Contiguous_Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dynamic_Programming_Practice_Problems/discrete_optimization_problems/branch_and_bound.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="2c5c1913-bc17-46ba-b143-c693b1e3a7b8" />
+  <component name="ProjectId" id="1m3ZanrDsYS7L2hq4VyLONfAHhR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1c98729-8874-4aa0-aa9c-c57afd6c4154" name="Default Changelist" comment="" />
+      <created>1608724300790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608724300790</updated>
+      <workItem from="1608724301949" duration="215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3509" y="484" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608724468456">
+      <screen x="1680" y="-148" width="3440" height="1376" />
+    </state>
+    <state x="3509" y="484" key="git4idea.remote.GitConfigureRemotesDialog/1680.-148.3440.1376/0.23.1680.1027@1680.-148.3440.1376" timestamp="1608724468456" />
+  </component>
+</project>
